@@ -16,7 +16,7 @@ A função utiliza três informações como base de comparação, todas obrigat�
 
 Ao executar o teste, caso existam rotas documentadas que não tenham testes no Postman, será gerado um arquivo `missing_routes.txt` com a rota e o método que não foram testados. Além disso, será exibida a mensagem "Foram encontradas rotas ausentes. Detalhes no arquivo `missing_routes.txt`. No console.
 
-Por outro lado, se todas as rotas do Swagger estiverem presentes na coleção do Postman, será exibida a mensagem "Todas as rotas do Swagger estão presentes na coleção do Postman." no console.
+Por outro lado, se todas as rotas do Swagger estiverem presentes na coleção do Postman, será exibida a mensagem "Todas as rotas do Swagger estão presentes na coleção do Postman." No console.
 
 ## Dependências
 
